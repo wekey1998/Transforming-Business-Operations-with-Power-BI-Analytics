@@ -102,6 +102,8 @@ Since the database in this project is MySQL, the datasets are imported into Powe
 
 Data modeling is the foundation of the report, and all visuals are built upon it. Poor data modeling can negatively affect report performance, so following best practices is essential. For reference, see this [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/). In this project, we’ve used the Snowflake Data Modeling method.
 
+<img src="https://github.com/wekey1998/Transforming-Business-Operations-with-Power-BI-Analytics/blob/main/data_model.png" class="center">
+
 ### Dashboard Design
 
 The team designs visuals based on the requirements received in the form of mockups. Measures are created as needed during this process.
@@ -118,6 +120,26 @@ The Home view provides buttons to navigate to specific report sections:
 - Executive View
 - Products
 - Support
+
+## Finance View
+
+![Finace.png](https://github.com/wekey1998/Transforming-Business-Operations-with-Power-BI-Analytics/blob/main/Finance%20view.png)
+
+## Sales View
+
+![Sales.png](https://github.com/wekey1998/Transforming-Business-Operations-with-Power-BI-Analytics/blob/main/Sales_view.png)
+
+## Marketing View
+
+![Marketing.png](https://github.com/wekey1998/Transforming-Business-Operations-with-Power-BI-Analytics/blob/main/Marketing_view.png)
+
+## Supply chain View
+
+![Supply chain.png](https://github.com/wekey1998/Transforming-Business-Operations-with-Power-BI-Analytics/blob/main/Supply%20chain.png)
+
+## Executive View
+
+![Executive.png](https://github.com/wekey1998/Transforming-Business-Operations-with-Power-BI-Analytics/blob/main/Executive%20view.png)
 
 ## Project Outcome
 
